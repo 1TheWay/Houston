@@ -1,0 +1,35 @@
+body {
+  width: 70%;
+  margin:auto;
+  font-size: 22px;
+}
+
+h1, h2, h3{
+  font-family: sans-serif;
+  padding-top: 1.5em;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+
+figure{
+  float: right;
+}
+
+img{
+  width: 400px;
+}
+
+figcaption{
+  font-style: italic;
+}
+
+.name{
+  font-size: 32px;
+}
+
+.no_space{
+  margin-top: 0px;
+  padding-top: 0px;
+}
